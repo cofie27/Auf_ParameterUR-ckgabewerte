@@ -2,7 +2,7 @@
 //Dateiname	    : Auf_ParameterURückgabewerte
 //Projekt	    : Auf_ParameterURückgabewerte
 //Beschreibung  :
-//Autoren	    : Paul Atuahene
+//Autoren	    : Paul A.
 //Erstellung	: 21.01.2021
 //letzte Änd.	: 25.01.2021
 //Fehler	    : 
